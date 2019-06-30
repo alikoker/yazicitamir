@@ -1,8 +1,3 @@
----
-
-
----
-
 <p>YazıcıTamir, hata veren yazıcınızı çalışır duruma getirmek için kullanabileceğiniz bir programdır.</p>
 <p>Bir belgeyi yazdırırken karşımıza çıkan işlemin iptal edilememesi gibi sorunların çözümünü sağlar.</p>
 <p><img src="https://cdn-images-1.medium.com/max/1500/1*LQv0WRGZr9MNhVpCr303aw.jpeg" alt=""></p>
@@ -49,7 +44,3 @@
 <p>Çeşitli sorunlar düzeltildi.</p>
 <p>Sürüm: 1.0</p>
 <p>İlk sürüm.</p>
-<blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
-</blockquote>
-
